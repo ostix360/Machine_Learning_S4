@@ -2,6 +2,10 @@
 
 This repo contains the cours of Machine Learning from SU.
 
+## Files
+
+ToyMC contains the course about the probabilities and fitting stuffs
+
 ## Table of Contents
 
 - [Machine Learning](#machine-learning)
